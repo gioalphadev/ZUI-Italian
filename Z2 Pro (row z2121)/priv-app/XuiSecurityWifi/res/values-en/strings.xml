@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WiFiCheck</string>
+    <string name="wifiwarning_notify">WiFi security warning</string>
+    <string name="wifiwarning_content_dns">\"%1$s\" WiFi DNS service is unsafe and could disclose senstive password and private info. Recommended to disconnect immediately.</string>
+    <string name="wifiwarning_content_fishing">\"%1$s\" WiFi is a phising network and will disclose senstive password and private info. Recommended to disconnect immediately.</string>
+    <string name="wifiwarning_content_arp">\"%1$s\" WiFi ARP deception attack and could disclose senstive password and private info. Recommended to disconnect immediately.</string>
+    <string name="wifiwarning_btn_goonuse">Continue</string>
+    <string name="wifiwarning_btn_closenet">Disconnect</string>
+</resources>

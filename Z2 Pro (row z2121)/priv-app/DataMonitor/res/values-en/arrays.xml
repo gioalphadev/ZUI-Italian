@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_list_sort_type_entries">
+        <item>@string/net_netfilter_sort_name</item>
+        <item>@string/net_netfilter_sort_flow</item>
+    </string-array>
+    <string-array name="traffic_month_sheet_date">
+        <item>1st Day</item>
+        <item>2nd Day</item>
+        <item>3rd Day</item>
+        <item>4th Day</item>
+        <item>5th Day</item>
+        <item>6th Day</item>
+        <item>7th Day</item>
+        <item>8th Day</item>
+        <item>9th Day</item>
+        <item>10th Day</item>
+        <item>11th Day</item>
+        <item>12th Day</item>
+        <item>13th Day</item>
+        <item>14th Day</item>
+        <item>15th Day</item>
+        <item>16th Day</item>
+        <item>17th Day</item>
+        <item>18th Day</item>
+        <item>19th Day</item>
+        <item>20th Day</item>
+        <item>21st Day</item>
+        <item>22nd Day</item>
+        <item>23rd Day</item>
+        <item>24th Day</item>
+        <item>25th Day</item>
+        <item>26th Day</item>
+        <item>27th Day</item>
+        <item>28th Day</item>
+        <item>29th Day</item>
+        <item>30th Day</item>
+        <item>31st Day</item>
+    </string-array>
+    <string-array name="traffic_correct_cycle_time">
+        <item>Daily</item>
+        <item>Every three days</item>
+        <item>Weekly</item>
+        <item>Close</item>
+    </string-array>
+    <string-array name="datetime_unit_name">
+        <item>Day</item>
+        <item>hours</item>
+        <item>minutes</item>
+        <item>seconds</item>
+    </string-array>
+    <string-array name="traffic_notice_month_percents">
+        <item>80%</item>
+        <item>90%</item>
+        <item>95%</item>
+        <item>close</item>
+    </string-array>
+    <string-array name="correct_result">
+        <item>Calibrated successfully</item>
+        <item>Invalid SIM slot</item>
+        <item>Querying callback has not been set</item>
+        <item>The last query for this SIM card has not been completed</item>
+        <item>Designated province has not been set</item>
+        <item>Operator information has not been set</item>
+        <item>Verification code has not been set</item>
+        <item>Verification code has been changed</item>
+        <item>Invalid verification code</item>
+        <item>Network error</item>
+        <item>Server error</item>
+        <item>Failed to receive SMS</item>
+        <item>Failed to send SMS</item>
+        <item>Operator busy</item>
+        <item>SIM card not ready</item>
+        <item>Unknown error</item>
+        <item>Failed to guess the operator network</item>
+    </string-array>
+    <string-array name="sim_name">
+        <item>SIM1</item>
+        <item>SIM2</item>
+    </string-array>
+    <string-array name="operator_name">
+        <item>China Mobile</item>
+        <item>China Unicom</item>
+        <item>China Telecom</item>
+        <item></item>
+    </string-array>
+    <string-array name="traffic_auto_correct_time">
+        <item>One day</item>
+        <item>Three days</item>
+        <item>Seven days</item>
+        <item>Close automatic calibration</item>
+    </string-array>
+    <string-array name="month_remaining1_bt">
+        <item>Ok</item>
+        <item>Open data management</item>
+    </string-array>
+    <string-array name="month_remaining2_bt">
+        <item>Continue connecting to network</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="month_remaining3_bt">
+        <item>Continue connecting to network</item>
+        <item>Cancel</item>
+    </string-array>
+</resources>
