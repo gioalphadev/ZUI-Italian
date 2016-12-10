@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">OfflineLog</string>
-    <string name="version_dialog_title">VersionInfo</string>
-    <string name="productmodel">Products model:</string>
-    <string name="hardversion">Hardware version:</string>
-    <string name="softversion">Software version:</string>
-    <string name="frameworkversion">Framework version:</string>
-    <string name="osversion">OS version:</string>
-    <string name="unknow">Unknow</string>
+    <string name="version_dialog_title">Info versione</string>
+    <string name="productmodel">Modello prodotto:</string>
+    <string name="hardversion">Versione hardware:</string>
+    <string name="softversion">Versione software:</string>
+    <string name="frameworkversion">Versione framework:</string>
+    <string name="osversion">Versione OS:</string>
+    <string name="unknow">Sconosciuto</string>
     <string name="disable_fdn_activity_title">Fdn Setting</string>
     <string name="tv_text">"Startup FDN settings.
 (Enable/Disable)"</string>
-    <string name="btn_post">Enable</string>
-    <string name="btn_neg">Disable</string>
-    <string name="enable_fdn">Enable</string>
-    <string name="disable_fdn">Disable</string>
-    <string name="reboot_device_title">Restart device</string>
+    <string name="btn_post">Abilitato</string>
+    <string name="btn_neg">Disabilitato</string>
+    <string name="enable_fdn">Abilitato</string>
+    <string name="disable_fdn">Disabilitato</string>
+    <string name="reboot_device_title">Riavvia dispositivo</string>
     <string name="reboot_device_message_pre_on">SS Service is enabled</string>
     <string name="reboot_device_message_pre_off">SS Service is disabled</string>
-    <string name="reboot_device_message_post">(Needs Restart!!!)</string>
-    <string name="reboot">Restart</string>
-    <string name="cancel">Cancel</string>
-    <string name="default_state">Error:</string>
+    <string name="reboot_device_message_post">(Riavvio necessario!!!)</string>
+    <string name="reboot">Riavvia</string>
+    <string name="cancel">Annulla</string>
+    <string name="default_state">Errore:</string>
     <string name="cur_state">Current SS Service State:</string>
     <string name="alert_string">Alert!</string>
-    <string name="alert_message_string">Pressing [OK] key will revert to factory settings and clear all user data, recommended that ordinary users exercise caution!</string>
-    <string name="alert_message_ums_string">Pressing [OK] will set USB mode to debug mode. For engineer only!</string>
+    <string name="alert_message_string">Premendo [OK] ritornerai alle impostazioni di fabbrica e cancellerai tutti i dati utente, raccomandiamo agli utneti ordinari di maneggiare con cautela!</string>
+    <string name="alert_message_ums_string">Premendo [OK] verrà impostata la modalità USB per debug. Solo per ingegneri!</string>
     <string name="alert_ok">OK</string>
     <string name="alert_no">NO</string>
-    <string name="framework_inf">Internal Version</string>
+    <string name="framework_inf">Versione interna</string>
     <string name="log_settings">OffLineLog</string>
-    <string name="sum_elog_settings">Elog Settings ,including pl,pf,hls log.</string>
+    <string name="sum_elog_settings">Impostazioni Elog,inclusi pl,pf,hls log.</string>
     <string name="elog_settings">CP Log</string>
-    <string name="commit_cate">Save</string>
-    <string name="commit_summary">Save Log to sdcard/log</string>
-    <string name="commit_title">Save Log</string>
-    <string name="waittingDialog_title">Logs are saving...</string>
-    <string name="SD_check">"SDcard's space is not enough"</string>
+    <string name="commit_cate">Salva</string>
+    <string name="commit_summary">Salva Log in sdcard/log</string>
+    <string name="commit_title">Salva Log</string>
+    <string name="waittingDialog_title">Salvataggio Log...</string>
+    <string name="SD_check">"Spazio SDcard non sufficiente"</string>
     <string name="SD_answer">Sure</string>
     <string name="sum_aplog_settings">log save</string>
     <string name="aplog_settings">log settings</string>
@@ -147,9 +147,9 @@
     <string name="warning_title">Instruction</string>
     <string name="warning_content1">1. Expansion functions based on open source FFMPEG is only used for test. If users want to use it, please make your own responsible for copyright issues.</string>
     <string name="warning_content2">2. When you enable this feature, you can immediately play the extension file formats in file manager. If you want to show the extension file formats in video lists, you firstly need to reboot you phone and then recopy the extension files to you phone.</string>
-    <string name="test_active">"active test card mode 
+    <string name="test_active">"active test card mode
  need reboot system"</string>
-    <string name="test_deactive">"deactive test card mode 
+    <string name="test_deactive">"deactive test card mode
  need reboot system"</string>
     <string name="dialog_ok">ok</string>
     <string name="dialog_cancel">cancel</string>
@@ -186,8 +186,8 @@
     <string name="description">"OfflineLog contains aplog and modem log
 
  1. Aplog
- (1)Long click 'App log' to enable Aplog, and then select log type 
- (2)Press 'Save' and the Aplog will be saved to /sdcard/log 
+ (1)Long click 'App log' to enable Aplog, and then select log type
+ (2)Press 'Save' and the Aplog will be saved to /sdcard/log
 
  2. Modem log
  (1)Start : click 'start' to capture the modem log
